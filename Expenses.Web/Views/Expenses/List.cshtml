@@ -1,0 +1,40 @@
+﻿@model List<Expenses.Models.ExpenseModel>
+
+<h1>List of Expenses</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>MoneySpent</th>
+                <th>ExpenseDate</th>
+                <th>Category</th>
+                <!-- Add other table headers as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var expense in Model)
+            {
+                <tr>
+                    <td>@expense.Id</td>
+                    <td>@expense.Title</td>
+                    <td>@expense.MoneySpent</td>
+                    <td>@expense.ExpenseDate</td>
+                    <td>@expense.Category</td>
+                    <!-- Add other table cells for additional properties -->
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No expenses to display.</p>
+}
+
+@* Add navigation links or buttons here if needed *@
+
+<a href="@Url.Action("NavigateToOtherView", "Expenses")">Add new entries</a>

@@ -1,0 +1,28 @@
+﻿@model Expenses.Models.ExpenseModel;
+
+@using (Html.BeginForm("AddDetails", "Expenses", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Title)
+        @Html.TextBoxFor(model => model.Title, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.MoneySpent)
+        @Html.TextBoxFor(model => model.MoneySpent, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ExpenseDate)
+        @Html.TextBoxFor(model => model.ExpenseDate, new { @class = "form-control" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.Category)
+        @Html.TextBoxFor(model => model.Category, new { @class = "form-control" })
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+} 

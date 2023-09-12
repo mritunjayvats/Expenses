@@ -1,0 +1,11 @@
+C:\Users\91880\source\repos\Expenses\Expenses.Models\bin\Debug\net7.0\Expense.Models.deps.json
+C:\Users\91880\source\repos\Expenses\Expenses.Models\bin\Debug\net7.0\Expense.Models.dll
+C:\Users\91880\source\repos\Expenses\Expenses.Models\bin\Debug\net7.0\Expense.Models.pdb
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\Expense.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\Expense.Models.AssemblyInfoInputs.cache
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\Expense.Models.AssemblyInfo.cs
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\Expense.Models.csproj.CoreCompileInputs.cache
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\Expense.Models.dll
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\refint\Expense.Models.dll
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\Expense.Models.pdb
+C:\Users\91880\source\repos\Expenses\Expenses.Models\obj\Debug\net7.0\ref\Expense.Models.dll

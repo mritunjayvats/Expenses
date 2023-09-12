@@ -1,0 +1,15 @@
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\bin\Debug\net7.0\Expense.DataAccess.deps.json
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\bin\Debug\net7.0\Expense.DataAccess.dll
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\bin\Debug\net7.0\Expense.DataAccess.pdb
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\bin\Debug\net7.0\Expense.Models.dll
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\bin\Debug\net7.0\Expense.Models.pdb
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.csproj.AssemblyReference.cache
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.AssemblyInfoInputs.cache
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.AssemblyInfo.cs
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.csproj.CopyComplete
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.dll
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\refint\Expense.DataAccess.dll
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\Expense.DataAccess.pdb
+C:\Users\91880\source\repos\Expenses\Expense.DataAccess\obj\Debug\net7.0\ref\Expense.DataAccess.dll
